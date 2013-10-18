@@ -1,0 +1,1 @@
+(function(){dust.register("public/templates/about.dust",body_0);function body_0(chk,ctx){return chk.write("\tAbout page goes here");}return body_0;})();
